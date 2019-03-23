@@ -14,8 +14,19 @@ body {
   color: yellow
 }
 .yu {
-  padding-left: 380px
+  padding-left: 380px;
+  color: yellow;
+  font-style: oblique;
+
 }
-#jk {
-  color: white
+.no {
+  padding-top: 20px;
+  padding-left:200px;
+  padding-right:200px;
+}
+#pol {
+  border-style: outset;
+  border-color: white;
+  border-radius: 10px;
+  padding: 10px;
 }
