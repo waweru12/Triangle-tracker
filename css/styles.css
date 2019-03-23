@@ -1,1 +1,21 @@
-
+h1 {
+  text-align: justify;
+  color: yellow
+}
+body {
+  padding-left: 50px;
+  padding-right: 50px;
+  margin:100px;
+  text-align: justify;
+  font-family: fantasy;
+  font-size:150%
+}
+#pol  {
+  color: yellow
+}
+.yu {
+  padding-left: 380px
+}
+#jk {
+  color: white
+}
