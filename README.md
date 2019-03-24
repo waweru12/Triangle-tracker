@@ -11,3 +11,9 @@ Its an application which runs under certain languages of programming which are;
    -HTML
    -CSS
    -java script
+
+#setup instructions
+The application is not as complicated and runs under the touch of the click button
+after entering the correct values to determine the triangle needed to be known.
+
+ 
