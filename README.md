@@ -26,3 +26,6 @@ inputted then the triangle type will be displayed.
 IG@_w.aweru_
 -0703956042
 Gmail@ austinwaweru12@gmail.com
+
+#license
+The triangle tracker is licensed by the General Public License v3.0
