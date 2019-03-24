@@ -21,3 +21,8 @@ The application is set to show certain types of triangles and behaves
 according to the instructions inputted,even if the user doesn't run any
 values the app will still trigger a response.If the values are correctly
 inputted then the triangle type will be displayed.
+
+#contact information
+IG@_w.aweru_
+-0703956042
+Gmail@ austinwaweru12@gmail.com
