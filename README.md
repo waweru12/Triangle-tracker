@@ -19,4 +19,5 @@ after entering the correct values to determine the triangle needed to be known.
 #BDD
 The application is set to show certain types of triangles and behaves
 according to the instructions inputted,even if the user doesn't run any
-values the app will still trigger a response.
+values the app will still trigger a response.If the values are correctly
+inputted then the triangle type will be displayed.
