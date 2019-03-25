@@ -31,7 +31,7 @@ body {
   padding: 10px;
 }
 .k{
-  color: yellow;
+  color: white;
 }
 #po{
   color: yellow;
@@ -39,4 +39,8 @@ body {
 }
 #austin {
   font-style: italic;
+}
+#mw {
+  color: white;
+  font-style: oblique;
 }
