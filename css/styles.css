@@ -33,3 +33,7 @@ body {
 .k{
   color: yellow;
 }
+#po{
+  color: yellow;
+  font-style: oblique;
+}
